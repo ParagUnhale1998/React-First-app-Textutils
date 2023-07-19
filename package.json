@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://paragunhale1998.github.io/React-First-app-Textutils",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
